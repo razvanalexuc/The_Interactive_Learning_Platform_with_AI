@@ -1,7 +1,7 @@
 ## Overview
 
 Part of my Bachelor's Degree Project, this Python application is focused on **Artificial Intelligence (AI)**, with a strong emphasis on **Machine Learning (ML)**, **Semantic Search**, and related technologies. The project leverages advanced concepts such as **LangChain**, **VectorStore**, and **Embeddings** to build a robust, AI-driven solution.
-The user is able to upload his PDFs and ask questions based on them using the **Conversational Chain** implementation. Also, there is a **Flashcard Generation** feature configured where flashcards can be obtained based on the text content that has been received by the PDF documents. A friendly flipping animation is used in order to showcase the other part of the flashcard with the answer of the question.
+The user is able to upload his PDFs and ask questions based on them using the **Conversational Chain** implementation. Also, there is a **Flashcard Generation** feature configured where flashcards can be obtained based on the text content that has been received by the PDF documents. A friendly flipping animation is used in order to showcase the other part of the flashcard with the answer of the question. The frontend text is in Romanian but can easily be translated.
 
 ## Table of Contents
 
@@ -85,3 +85,27 @@ Contributions are welcome! If you would like to contribute to this project, plea
 4. **Push to the branch**:
    git push origin feature/YourFeature
 5. **Create new Pull Request.**
+
+## LICENSE
+MIT License
+
+Copyright (c) [2024] [Răzvan Alexuc]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
